@@ -5,3 +5,8 @@ OCR Pipelines
 ###### ->  Divide by max value
 ###### ->  Min-Max method 
 ###### ->  Std method
+
+### -> GrayScale
+### -> Resize Image
+### -> Noise Removal
+### -> Skew Correction
